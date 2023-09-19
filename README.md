@@ -1,6 +1,4 @@
-# Football-Transfers-Analysis-in-Excel
-
-Understand the Economics of Football by Analyzing International Transfers Data in Excel
+# Understand the Economics of Football by Analyzing International Transfers Data in Excel
 
 Welcome to the Football Transfers Analysis in Excel project! This repository is dedicated to an in-depth exploration of international football transfers, providing valuable insights into the economics and movement of players across associations. Leveraging a robust dataset spanning two seasons (2021/2022 and 2022/2023), this project involves extensive data analysis and visualization in Excel.
 
